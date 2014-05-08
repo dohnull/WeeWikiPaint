@@ -1,5 +1,8 @@
 WeeWikiPaint
 
+This is a copy of James Shore's java script tutorial (https://github.com/jamesshore/lets_code_javascript)
+which I am building as I work my way through the tutorial.
+
 To build:
 - Assumes presence of Node.js
 - Run ./jake.sh
